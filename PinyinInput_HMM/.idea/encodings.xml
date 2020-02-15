@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/data/data1/1.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data/data1/10.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data/data1/11.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data/data1/12.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data/data1/2.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data/data1/3.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data/data1/4.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data/data1/5.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data/data1/6.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data/data1/7.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data/data1/8.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data/data1/9.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/hmm/hmm_implement.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/hmm/hmm_interface.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/hmm/priorityset.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/hmm/viterbi.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/shurufa.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/train/get_probability.py" charset="UTF-8" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>
